@@ -4,4 +4,4 @@
 var test = function(){
     console.log('hello my name is zhanglingling 122221')
 };
-module.exports = test();
+module.exports = test;
